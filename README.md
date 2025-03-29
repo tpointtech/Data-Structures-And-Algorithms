@@ -26,7 +26,7 @@ https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU
 <ol>
   <li>https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm</li>
   <li>http://letsfindcourse.com/technical-questions/dsa-mcq/dsa-interview-questions</li>
-<li>https://www.javatpoint.com/data-structure-interview-questions</li>
+<li>https://www.tpointtech.com/data-structure-interview-questions</li>
 <li>http://placement.freshersworld.com/data-structure-interview-questions/33121964</li> 
 <li>https://www.faceprep.in/data-structures/data-structures-interview-questions/</li>
 <li>https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/</li>
